@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "Njmsky6HP/S7/EMgPt9wyRI+Hoax7AddVlW/8rZPZLThF7bCzADKvKY0esYViwWQdoiLa1VVR3YCXuaFGeNc/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nico\\Documents\\2021_Apps\\FoodOrderApp\\FoodOrderApp\\FoodOrderApp.iOS\\FoodOrderApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nico\\.nuget\\packages\\firebasedatabase.net\\4.0.6\\firebasedatabase.net.4.0.6.nupkg.sha512",
+    "C:\\Users\\Nico\\.nuget\\packages\\litedb\\4.1.4\\litedb.4.1.4.nupkg.sha512",
+    "C:\\Users\\Nico\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\Nico\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
+    "C:\\Users\\Nico\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Nico\\.nuget\\packages\\system.reactive\\4.0.0\\system.reactive.4.0.0.nupkg.sha512",
+    "C:\\Users\\Nico\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\Nico\\.nuget\\packages\\system.reflection.typeextensions\\4.3.0\\system.reflection.typeextensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Nico\\.nuget\\packages\\system.runtime.interopservices.windowsruntime\\4.3.0\\system.runtime.interopservices.windowsruntime.4.3.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512",
+    "C:\\Users\\Nico\\.nuget\\packages\\xamarin.forms.pancakeview\\2.3.0.759\\xamarin.forms.pancakeview.2.3.0.759.nupkg.sha512",
+    "C:\\Users\\Nico\\.nuget\\packages\\xamarin.forms.visual.material\\5.0.0.2012\\xamarin.forms.visual.material.5.0.0.2012.nupkg.sha512",
+    "C:\\Users\\Nico\\.nuget\\packages\\xamarin.ios.materialcomponents\\92.0.0\\xamarin.ios.materialcomponents.92.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
